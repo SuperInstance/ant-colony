@@ -1,0 +1,11 @@
+[package]
+name = "ant-colony"
+version = "0.1.0"
+edition = "2021"
+description = "Ant colony optimization with pheromone trails, ACS, MMAS, and TSP solving"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ant-colony"
+keywords = ["ant-colony", "optimization", "tsp", "metaheuristic", "algorithms"]
+categories = ["algorithms", "science"]
+
+[dependencies]
